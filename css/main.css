@@ -1,0 +1,45 @@
+main{
+    background-color:rgb(244, 202, 210) ;
+    border-style:dashed;
+    margin:12pt;
+}
+h3{
+    font-size: larger;
+}
+.module{
+    background-color:rgb(226, 204, 243) ;
+    border-style:dashed;
+    margin:30pt;
+    padding:10pt;
+
+}
+.hhh{
+    background-color:rgb(242, 194, 243) ;
+    border-style:dashed;
+    margin:30pt;
+}
+.ttt{
+    background-color:rgb(243, 204, 233) ;
+    border-style:dashed;
+    margin:30pt;
+}
+section{
+    padding: 12pt;
+}
+.blok{
+    background-image: url("https://avatars.mds.yandex.net/i?id=e583669a975d66533a41842ab39ce14a_l-2982957-images-thumbs&n=13") ;
+    background-size: cover;
+}
+.blok p{
+    font-size: xx-large;
+    color: rgb(102, 29, 99);
+    padding-left: 20pt;
+}
+
+
+.fotki{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
